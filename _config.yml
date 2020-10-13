@@ -1,0 +1,11 @@
+theme: just-the-docs 
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - community-resources.md
+  - workshops.md
+title: x-gov form Community
+description: A sharing page for resources created by the community, for the community
