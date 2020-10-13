@@ -1,11 +1,5 @@
-theme: just-the-docs 
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - community-resources.md
-  - workshops.md
-title: x-gov form Community
-description: A sharing page for resources created by the community, for the community
+title: x-gov forms
+description: Cross Government Forms community
+remote_theme: dhicks6345789/govuk-frontend-jekyll-theme
+color_scheme: "light"
+search_enabled: true

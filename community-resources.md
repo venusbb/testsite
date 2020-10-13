@@ -1,4 +1,9 @@
-# x-gov form community resources
+---
+title: Community resources
+nav_order: 2
+---
+
+<!-- # x-gov form community resources -->
 *The resources on this page are posted by the community for the community.*
 
 ## Blog posts about the community
@@ -28,5 +33,5 @@
 
 ## Other blogs
 - David Durant, [Where GDS went wrong and what could be done about it](https://medium.com/@cholten99_61869/where-gds-went-wrong-and-what-could-be-done-about-it-7ca6383c387c), July 2020.
-- Matt Jukes, [Public Service Digital in the Time of COVID-19](https://notbinary.co.uk/public-service-digital-in-the-time-of-covid-19/), Apr 2020. 
+- Matt Jukes, [Public Service Digital in the Time of COVID-19](https://notbinary.co.uk/public-service-digital-in-the-time-of-covid-19/), Apr 2020.
 - Stephen Richards, [Configuration-driven state machines](https://medium.com/just-tech/configuration-driven-state-machines-db26b85d1a67), Sep 2018.
